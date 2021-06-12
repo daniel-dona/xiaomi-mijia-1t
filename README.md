@@ -13,7 +13,7 @@ Xiaomi Mijia 1T information recopilation
 
 # Sources
 - Personal investigation
-- https://dontvacuum.me/robotinfo/
+- Hardware and similarities with other models: https://dontvacuum.me/robotinfo/
 - Several discusion threads here: https://github.com/Hypfer/Valetudo/issues?q=dreame
 - And here: https://github.com/rytilahti/python-miio/issues?q=dreame
 - Specialy this one: https://github.com/rytilahti/python-miio/issues/812
